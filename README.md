@@ -1,0 +1,18 @@
+## computational_physics_N2014301020044 
+---
+- [x] Exercise_01：Chapter 1 problem
+- [x] Exercise_02：Chapter 1 problem
+- [x] Exercise_03：Chapter 2 problem
+- [x] Exercise_04：Chapter 2 problem
+- [x] Exercise_05：Chapter 3 problem
+- [x] Exercise_06：Chapter 3 problem
+- [x] Exercise_07：Chapter 4 problem
+- [x] Exercise_08：Chapter 4 problem
+- [x] Exercise_09：Chapter 5 problem
+- [x] Exercise_10：Chapter 5 problem
+- [x] Exercise_11：Chapter 6 problem
+- [x] Exercise_12：Chapter 6 problem
+- [x] Exercise_13：Chapter 7 problem
+- [x] Exercise_14：Chapter 7 problem
+- [x] Exercise_15：Chapter 8 problem
+- [x] Exercise_16：Chapter 8 problem
