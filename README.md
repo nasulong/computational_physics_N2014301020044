@@ -1,6 +1,6 @@
 ## computational_physics_N2014301020044 
 ---
-- [x] Exercise_01：Chapter 1 problem
+- [x] [Exercise_01：English name](https://github.com/nasulong/computational_physics_N2014301020044/blob/master/exercise2.py)
 - [x] Exercise_02：Chapter 1 problem
 - [x] Exercise_03：Chapter 2 problem
 - [x] Exercise_04：Chapter 2 problem
