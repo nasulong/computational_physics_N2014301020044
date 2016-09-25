@@ -1,8 +1,8 @@
 ## computational_physics_N2014301020044 
 ---
-- [x] [Exercise_01：English name](https://github.com/nasulong/computational_physics_N2014301020044/blob/master/exercise2.py)
-- [x] Exercise_02：Chapter 1 problem
-- [x] Exercise_03：Chapter 2 problem
+- [x] [Exercise_02：English name](https://github.com/nasulong/computational_physics_N2014301020044/blob/master/exercise2.py)
+- [x] [Exercise_03：move name](https://github.com/nasulong/computational_physics_N2014301020044/blob/master/exercise3(01)-move%20name.py)
+- [x] [Exercise_03：spin picture](https://github.com/nasulong/computational_physics_N2014301020044/blob/master/exercise3(02)-spin%20picture.py)
 - [x] Exercise_04：Chapter 2 problem
 - [x] Exercise_05：Chapter 3 problem
 - [x] Exercise_06：Chapter 3 problem
