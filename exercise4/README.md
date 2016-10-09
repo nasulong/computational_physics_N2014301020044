@@ -11,7 +11,7 @@
  
  ---
 #3.正文    
- * 运行程序代码 [problem1.5 decay of A and B](https://github.com/nasulong/computational_physics_N2014301020044/blob/master/exercise4/exercise04-problem1.5-untest.py)   
+ * 运行程序代码 [problem1.5-untest-decay of A and B](https://github.com/nasulong/computational_physics_N2014301020044/blob/master/exercise4/exercise04-problem1.5-untest.py)   
  ##运行图如下   
  ![图1](https://github.com/nasulong/computational_physics_N2014301020044/blob/master/exercise4/exercise04%E8%BF%90%E8%A1%8C%E6%88%AA%E5%9B%BE.png)       
  
@@ -19,10 +19,11 @@
  ##模拟图如下
  ![图2](https://github.com/nasulong/computational_physics_N2014301020044/blob/master/exercise4/decay%20of%20A%20and%20B%E6%9C%AA%E6%A3%80%E6%B5%8B%E5%9B%BE.png.png)   
  
- * 运用数学方法 算出的准确曲线与上述欧拉方法进行比较， 可以得到比较图，运行的Python语言为[problem1.5-test](https://github.com/nasulong/computational_physics_N2014301020044/blob/master/exercise4/exercise4.problem1.5-test.py)   
+ * 运用数学方法 算出的准确曲线与上述欧拉方法进行比较， 可以得到比较图   
+    运行的完整代码为[problem1.5-test-decay of A and B](https://github.com/nasulong/computational_physics_N2014301020044/blob/master/exercise4/exercise4.problem1.5-test.py)   
  模拟图见下
  ![图3](https://github.com/nasulong/computational_physics_N2014301020044/blob/master/exercise4/decay%20of%20A%20and%20B%E6%A3%80%E6%B5%8B%E5%9B%BE.png.png)   
- 实验获得的数据见[decay_of_nuclei A and B_data.txt](https://github.com/nasulong/computational_physics_N2014301020044/blob/master/exercise4/decay_of_nuclei%20A%20and%20B_data.txt)   
+*  实验获得的数据见[decay_of_nuclei A and B_data.txt](https://github.com/nasulong/computational_physics_N2014301020044/blob/master/exercise4/decay_of_nuclei%20A%20and%20B_data.txt)   
  
  
 #4.结论   
