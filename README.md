@@ -3,7 +3,7 @@
 - [x] [Exercise_02：English name](https://github.com/nasulong/computational_physics_N2014301020044/blob/master/exercise2.py)
 - [x] [Exercise_03：move name](https://github.com/nasulong/computational_physics_N2014301020044/blob/master/exercise3/exercise3(01)-move%20name.py)
 - [x] [Exercise_03：spin picture](https://github.com/nasulong/computational_physics_N2014301020044/blob/master/exercise3/exercise3(02)-move%20name.py)
-- [x] Exercise_04：Chapter 2 problem
+- [x] [Exercise_04:problem1.5_decay of A and B](https://github.com/nasulong/computational_physics_N2014301020044/tree/master/exercise4)
 - [x] Exercise_05：Chapter 3 problem
 - [x] Exercise_06：Chapter 3 problem
 - [x] Exercise_07：Chapter 4 problem
