@@ -31,8 +31,8 @@ class  Trajectory_of_cannon:
         pl.plot(self.X,self.Y)
         pl.xlabel("X(m)")
         pl.ylabel("Y(m)")
-        pl.xlim(0,50000)
-        pl.ylim(0,50000)
+        pl.xlim(0,30000)
+        pl.ylim(0,20000)
         pl.show()
     def landing_point(self):              #求着地点
        self.angel_point=dict()
