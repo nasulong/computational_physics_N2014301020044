@@ -1,6 +1,6 @@
 #摘要
 ---
-给定任意的坐标(x,y),扫描求得在一定精度范围内能打到目标的炮弹曲线，并给出最接近的一条.   
+给定任意的坐标(x,y),得到在一定精度范围内能打到目标的炮弹曲线，并给出最接近的一条.   
 
 #背景
 ----
@@ -17,14 +17,21 @@
 ![tu1](https://github.com/nasulong/computational_physics_N2014301020044/blob/master/exercise6.problem2.10/%E8%BF%90%E8%A1%8C1.png)
 ![图2](https://github.com/nasulong/computational_physics_N2014301020044/blob/master/exercise6.problem2.10/%E8%BF%90%E8%A1%8C2.png)
 
-我输入坐标(10000，10000)，初始速度为700m/s,精度取为100米(精度为击打点到目标的距离)，
+##举例
+##我输入坐标(10000，10000)，初始速度为700m/s,精度取为100米(精度为击打点到目标的距离)，   
 得到的几组曲线为![图3](https://github.com/nasulong/computational_physics_N2014301020044/blob/master/exercise6.problem2.10/figure_1%E5%87%BB%E6%89%93%E4%BB%BB%E6%84%8F%E7%9B%AE%E6%A0%87.png)
-最接近的一组曲线的精确度和角度为
+##最接近的一组曲线的精确度和角度为
 ![图4](https://github.com/nasulong/computational_physics_N2014301020044/blob/master/exercise6.problem2.10/%E6%95%B0%E6%8D%AE.png)
 ---
 #结论
-能力有限，主要采取扫描的方法得到能打到目标的曲线参数，gg
+
+* 能力有限，主要采取扫描的方法得到能打到目标的曲线参数，gg   
+* 给定任一坐标，利用本程序能实现精度内打击，有效性比较高。   
+* 给定任一坐标，求最小的打击速度，可同样采取扫描速度的方式，但在要求精度条件下累积的运算量很大，所以不太实用，未展示
+
+
 ---
 #致谢
+
 * 计算物理section2.2和section2.3
 * 蔡浩老师辛勤教导
