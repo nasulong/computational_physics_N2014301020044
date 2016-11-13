@@ -1,12 +1,10 @@
 I am sorry for handing in my homework late.There are some thing wrong with my net and I failed to upload my homework.   
 
 #1.Abstract   
-###we have seen that at low driving forces the damped,nonlinear pendulum exhibits simple oscillatory motion,while at high drive it can   
-###be chaotic. This raises an obvious question :Exactly howdoes the transition fromsimple to chaotic behaviour take place?It tyrns out that 
-###the pendulum exhibits transitions to chaotic behaviour at several different values of the driving force. We will consider the behavior   
-###at somewhat higer driving forces and explore the transitions numerically.    
-###Many systems have been found to exhibit chaotic behaviour ,but there appear to be only a few ways in which the transitions from simple   
-###to chaotic can occur.The periodic-doubling scenario will be introduced next.   
+###we have seen that at low driving forces the damped,nonlinear pendulum exhibits simple oscillatory motion,while at high drive it can 
+be chaotic. This raises an obvious question :Exactly howdoes the transition fromsimple to chaotic behaviour take place?It tyrns out that
+###the pendulum exhibits transitions to chaotic behaviour at several different values of the driving force. We will consider the behavior at somewhat higer driving forces and explore the transitions numerically.
+###Many systems have been found to exhibit chaotic behaviour ,but there appear to be only a few ways in which the transitions from simple to chaotic can occur.The periodic-doubling scenario will be introduced next.   
 * problem3.18 calculate the poincare section foor the pendulum as it undergoes the period-doubling route to chaos.Do this for FD=1.4,1.44,1.465   
 * problem3.20 calculate the bifurcation diagram for the pendulum in the vicinity of FD=1.35~1.5
 
