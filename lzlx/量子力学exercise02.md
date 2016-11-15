@@ -1,0 +1,11 @@
+#量子力学线上第二次作业
+---
+##problem3-9、3-10、3-12、3-16  
+---
+![2-1](https://github.com/nasulong/computational_physics_N2014301020044/blob/master/lzlx/2-1.jpg)   
+![2-2](https://github.com/nasulong/computational_physics_N2014301020044/blob/master/lzlx/2-2.jpg)   
+![2-3](https://github.com/nasulong/computational_physics_N2014301020044/blob/master/lzlx/2-3.jpg) 
+![2-4](https://github.com/nasulong/computational_physics_N2014301020044/blob/master/lzlx/2-4.jpg) 
+![2-5](https://github.com/nasulong/computational_physics_N2014301020044/blob/master/lzlx/2-5.jpg) 
+![2-6](https://github.com/nasulong/computational_physics_N2014301020044/blob/master/lzlx/2-6.jpg) 
+![2-7](https://github.com/nasulong/computational_physics_N2014301020044/blob/master/lzlx/2-7.jpg) 
