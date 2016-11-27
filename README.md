@@ -9,7 +9,7 @@
 - [x] [Exercise_07: problem3.12 3.13 3.14](https://github.com/nasulong/computational_physics_N2014301020044/blob/master/exercise07/README.md)
 - [x] [Exercise_08：problem3.18,3.20](https://github.com/nasulong/computational_physics_N2014301020044/blob/master/exercise08/README.md)
 - [x] [Exercise_09：problem3.30](https://github.com/nasulong/computational_physics_N2014301020044/blob/master/exercise09/README.md)  
-- [x] Exercise_10：Chapter 5 problem
+- [x] [Exercise_10:problem4.8、4.9](http://www.jianshu.com/p/9055c7696c3e)
 - [x] Exercise_11：Chapter 6 problem
 - [x] Exercise_12：Chapter 6 problem
 - [x] Exercise_13：Chapter 7 problem
