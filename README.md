@@ -11,7 +11,7 @@
 - [x] [Exercise_09：problem3.30](https://github.com/nasulong/computational_physics_N2014301020044/blob/master/exercise09/README.md)  
 - [x] [Exercise_10:problem4.8、4.9](http://www.jianshu.com/p/9055c7696c3e)
 - [x] [Exercise_11：problem4.19、4.20](http://www.jianshu.com/p/ce87cbd0a58e)
-- [x] Exercise_12：Chapter 6 problem
+- [x] [Exercise_12:problem5.1,5.3](http://www.jianshu.com/p/19b90c12378f)
 - [x] Exercise_13：Chapter 7 problem
 - [x] Exercise_14：Chapter 7 problem
 - [x] Exercise_15：Chapter 8 problem
