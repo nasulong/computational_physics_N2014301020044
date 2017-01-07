@@ -13,5 +13,5 @@
 - [x] [Exercise_11：problem4.19、4.20](http://www.jianshu.com/p/ce87cbd0a58e)
 - [x] [Exercise_12:problem5.1,5.3](http://www.jianshu.com/p/19b90c12378f)
 - [x] [Exercise_13：problem6.9、6.12](http://www.jianshu.com/p/1a9e076de3d6)
-- [x] [Exercise_14：期末大作业](http://www.jianshu.com/p/cdeb743e2c8f)
-[陆文龙（2014301020044）量子力学](https://github.com/nasulong/computational_physics_N2014301020044/blob/master/lzlx/%E9%87%8F%E5%AD%90%E5%8A%9B%E5%AD%A6%E4%BD%9C%E4%B8%9A.md)
+- [x] [Exercise_14：期末大作业](http://www.jianshu.com/p/cdeb743e2c8f)      
+[陆文龙量子力学(学期中给老师的链接有问题)](https://github.com/nasulong/computational_physics_N2014301020044/blob/master/lzlx/%E9%87%8F%E5%AD%90%E5%8A%9B%E5%AD%A6%E4%BD%9C%E4%B8%9A.md)
