@@ -13,6 +13,4 @@
 - [x] [Exercise_11：problem4.19、4.20](http://www.jianshu.com/p/ce87cbd0a58e)
 - [x] [Exercise_12:problem5.1,5.3](http://www.jianshu.com/p/19b90c12378f)
 - [x] [Exercise_13：problem6.9、6.12](http://www.jianshu.com/p/1a9e076de3d6)
-- [x] Exercise_14：Chapter 7 problem
-- [x] Exercise_15：Chapter 8 problem
-- [x] Exercise_16：Chapter 8 problem
+- [x] [Exercise_14：期末大作业](http://www.jianshu.com/p/cdeb743e2c8f)
